@@ -54,6 +54,10 @@ h1 {
   text-align: center;
 }
 
+.dream {
+  margin-bottom: 40px;
+}
+
 .search_button {
   position: absolute;
   transform: translate(190%, -250px);
@@ -62,16 +66,14 @@ h1 {
 }
 
 .input {
-  input[type="search"] {
-    border: none;
-    background: transparent;
-    margin: 0;
-    padding: 7px 8px;
-    font-size: 14px;
-    color: inherit;
-    border: 1px solid transparent;
-    border-radius: inherit;
-  }
+  border: none;
+  background: transparent;
+  margin: 0;
+  padding: 7px 8px;
+  font-size: 14px;
+  color: inherit;
+  border: 1px solid transparent;
+  border-radius: inherit;
 }
 
 form {
@@ -125,4 +127,15 @@ button[type="submit"] {
 .fa-cart-shopping {
   position: absolute;
   transform: translate(290px, -25px);
+}
+
+/* Section 3 Style starts here */
+
+.section3 {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.box1 {
+  margin-left: 50px;
 }
