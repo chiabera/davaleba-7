@@ -139,3 +139,29 @@ button[type="submit"] {
 .box1 {
   margin-left: 50px;
 }
+
+/* Foter Style Starts Here */
+.footer {
+  background-color: #262626;
+  padding: 170px;
+  color: white;
+  text-align: center;
+  line-height: 50px;
+}
+
+.footer_text {
+  font-size: 62.83px;
+  font-weight: 600;
+}
+
+span {
+  color: #dcb47a;
+}
+
+.footer_btn {
+  background-color: #dcb47a;
+  padding: 15px 40px;
+  border-radius: 50px;
+  border: none;
+  color: white;
+}
